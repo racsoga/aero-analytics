@@ -1,0 +1,72 @@
+# =========================
+# Entornos Virtuales
+# =========================
+venv/
+env/
+.env
+.venv/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Archivos de Datos (Solo subimos el código)
+# =========================
+data/
+outputs/
+*.csv
+*.csv.bz2
+*.zip
+*.tar.gz
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Archivos de Sistema Operativo
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+[Tt]humbs.db
+
+# =========================
+# IDEs y Editores de Código
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
