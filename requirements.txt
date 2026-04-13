@@ -1,0 +1,12 @@
+# Core Analysis
+pandas>=2.0.0
+
+# Visualization
+plotly>=5.15.0
+
+# Web Dashboard Engine
+streamlit>=1.25.0
+
+# (Optional - Exploration Scripts only)
+matplotlib>=3.7.0
+seaborn>=0.12.0
